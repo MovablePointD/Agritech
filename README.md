@@ -130,11 +130,3 @@ A：可以。服务会自动使用 `contents/sessions_fallback.json` 存储会�
 
 **Q：连接主服务失败？**  
 A：检查 `.env` 中 `BACKEND_URL` 是否为 `http://localhost:8080`。
-
----
-
-## 相关项目
-
-- 后端：同级目录 `rxtcloud/`
-- 前端：同级目录 `rxtvue/`
-- 总体说明：上级目录 `README.md`
