@@ -118,10 +118,5 @@ A：清除浏览器 `localStorage` 中的 `token`、`user` 后重新登录。
 **Q：AI 助手提示服务不可用？**  
 A：确认 `aiagent` 已在 5000 端口运行，且 DeepSeek API Key 已配置。
 
----
 
-## 相关项目
 
-- 后端：同级目录 `rxtcloud/`
-- AI 服务：同级目录 `aiagent/`
-- 总体说明：上级目录 `README.md`
